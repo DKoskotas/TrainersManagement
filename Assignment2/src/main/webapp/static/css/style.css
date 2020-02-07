@@ -1,0 +1,82 @@
+.error{
+    color: red;
+}
+
+body{
+    background-color: activecaption;
+}
+
+h1{
+    text-align: center;
+    background-color: slateblue;
+    padding: 30px 10px 30px 10px;
+    color: activecaption;
+    margin: 2%;
+    border: 1px solid darkblue;
+    box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+div {
+    display: block;
+    text-align: center;
+}
+
+button {
+    background-color: whitesmoke;
+    color: darkcyan;
+    padding: 33px;
+    font-size: 16px;
+    border: none;
+    position: relative;
+    box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+img{
+   margin: 2%;
+   width: 450px;
+   box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+.create{
+    text-align: center;
+}
+
+
+table {
+    
+    background-color: whitesmoke;
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+    border-collapse: collapse;
+    box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+td {
+    color: azure;
+    background-color: steelblue;
+    padding: 11px;
+    border-collapse: collapse;
+    box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+a.tablelink {
+    color: azure;
+}
+
+
+footer {
+    text-align: center;
+    background-color: slateblue;
+    padding: 30px 10px 30px 10px;
+    color: activecaption;
+    margin: 2%;
+    border: 1px solid darkblue;
+    box-shadow: 20px 2px 8px rgba(0,0,0,0.5);
+}
+
+
+
+
+

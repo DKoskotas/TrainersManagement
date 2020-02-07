@@ -1,0 +1,10 @@
+com\dkosko\dao\TrainerDao.class
+com\dkosko\services\TrainerService.class
+com\dkosko\config\MyWebAppConfig.class
+com\dkosko\entities\Trainer.class
+com\dkosko\controller\HomeController.class
+com\dkosko\config\DispatcherServletInitializer.class
+com\dkosko\controller\TrainerController.class
+com\dkosko\dao\TrainerDaoImpl.class
+com\dkosko\config\DatabaseConfig.class
+com\dkosko\services\TrainerServiceImpl.class
